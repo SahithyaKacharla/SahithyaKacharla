@@ -65,12 +65,6 @@ An AI-powered wardrobe assistant designed to explore outfit recommendations, war
 
 **Exploring:** AI agents · LLM integration · Personalised recommendations
 
-### 🏥 VK Enterprises
-
-An e-commerce website project for a medical supplies business, focused on product discovery and a smoother ordering experience.
-
-**Exploring:** Web development · User experience · Business workflows
-
 ### 🌐 Fusion Services
 
 A business website project showcasing services through a modern, responsive web interface.
